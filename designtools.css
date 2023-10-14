@@ -1,0 +1,50 @@
+body{
+    background-image: url('https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png');
+}
+.nav-background{
+    background-color: #0C0521;
+}
+.nav-link{
+    color: aliceblue;
+}
+#colo1{
+    color:antiquewhite;
+}
+#colo2{
+    color:antiquewhite;
+}
+#colo3{
+    color:antiquewhite;
+}
+#colo4{
+    color:antiquewhite;
+}
+#colo5{
+    color:antiquewhite;
+}
+#colo6{
+    color:antiquewhite;
+}
+#colo7{
+    color: antiquewhite;
+    margin-top: 200px;
+    text-align: center;
+}
+#colo8{
+    color: rgb(132, 78, 8);
+}
+#colo9{
+    color: antiquewhite;
+    margin-top: 100px;
+    text-align: center;
+    font-size: 20px;
+}
+#colo10{
+    color:antiquewhite;
+    text-align: center;
+}
+#colo11{
+    border-radius: 100px;
+    padding: 3%;
+    background-color: #FFDDA9;
+}
